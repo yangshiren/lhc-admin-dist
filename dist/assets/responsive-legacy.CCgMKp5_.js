@@ -1,4 +1,0 @@
-/*! 
- Build based on gin-vue-admin 
- Time : 1774033438000 */
-System.register(["./index-legacy.CXL_pr1x.js","./vendor-legacy.-6_ZvVqG.js"],(function(e,n){"use strict";var t,i,o,r,c;return{setters:[function(e){t=e.q,i=e.ac},function(e){o=e.h,r=e.a2,c=e.X}],execute:function(){e("u",(function(e){var d=t(),u=i((function(){if(!document.hidden){var e=document.body.getBoundingClientRect().width-1<n;d.toggleDevice(e?"mobile":"desktop")}}),100);o((function(){u()})),r((function(){!function(e,n,t){var i=arguments.length>3&&void 0!==arguments[3]&&arguments[3];e.addEventListener&&"function"==typeof e.addEventListener&&e.addEventListener(n,t,i)}(window,"resize",u)})),c((function(){!function(e,n,t){var i=arguments.length>3&&void 0!==arguments[3]&&arguments[3];e.removeEventListener&&"function"==typeof e.removeEventListener&&e.removeEventListener(n,t,i)}(window,"resize",u)}))}));var n=992}}}));

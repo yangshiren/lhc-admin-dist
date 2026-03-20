@@ -1,0 +1,4 @@
+/*! 
+ Build based on gin-vue-admin 
+ Time : 1774034247000 */
+import{s as d}from"./index.BHiTCRAE.js";const c=c=>d({url:"/lhcAccountOdds/createLhcAccountOdds",method:"post",data:c}),t=c=>d({url:"/lhcAccountOdds/deleteLhcAccountOdds",method:"delete",params:c}),a=c=>d({url:"/lhcAccountOdds/deleteLhcAccountOddsByIds",method:"delete",params:c}),s=c=>d({url:"/lhcAccountOdds/updateLhcAccountOdds",method:"put",data:c}),e=c=>d({url:"/lhcAccountOdds/findLhcAccountOdds",method:"get",params:c}),o=c=>d({url:"/lhcAccountOdds/getLhcAccountOddsList",method:"get",params:c}),u=c=>d({url:"/lhcAccountOdds/batchUpdateAccountOdds",method:"POST",data:c}),h=c=>d({url:"/lhcAccountOdds/getGameBackList",method:"GET",params:c}),l=c=>d({url:"/lhcAccountOdds/batchUpdateBack",method:"POST",data:c});export{a,u as b,c,t as d,l as e,e as f,o as g,h,s as u};

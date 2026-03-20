@@ -1,0 +1,4 @@
+/*! 
+ Build based on gin-vue-admin 
+ Time : 1774034247000 */
+System.register(["./index-legacy.C4zAK5X9.js"],(function(t,e){"use strict";var i;return{setters:[function(t){i=t.s}],execute:function(){t("c",(function(t){return i({url:"/lhcBetLimit/createLhcBetLimit",method:"post",data:t})})),t("d",(function(t){return i({url:"/lhcBetLimit/deleteLhcBetLimit",method:"delete",params:t})})),t("a",(function(t){return i({url:"/lhcBetLimit/deleteLhcBetLimitByIds",method:"delete",params:t})})),t("u",(function(t){return i({url:"/lhcBetLimit/updateLhcBetLimit",method:"put",data:t})})),t("f",(function(t){return i({url:"/lhcBetLimit/findLhcBetLimit",method:"get",params:t})})),t("g",(function(t){return i({url:"/lhcBetLimit/getLhcBetLimitList",method:"get",params:t})})),t("b",(function(t){return i({url:"/lhcBetLimit/getLhcBetLimitByProductCode",method:"GET",params:t})}))}}}));
