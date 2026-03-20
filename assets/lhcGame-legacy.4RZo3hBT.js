@@ -1,0 +1,4 @@
+/*! 
+ Build based on gin-vue-admin 
+ Time : 1774033438000 */
+System.register(["./index-legacy.CXL_pr1x.js"],(function(e,t){"use strict";var r;return{setters:[function(e){r=e.s}],execute:function(){e("c",(function(e){return r({url:"/lhcGame/createLhcGame",method:"post",data:e})})),e("d",(function(e){return r({url:"/lhcGame/deleteLhcGame",method:"delete",params:e})})),e("a",(function(e){return r({url:"/lhcGame/deleteLhcGameByIds",method:"delete",params:e})})),e("u",(function(e){return r({url:"/lhcGame/updateLhcGame",method:"put",data:e})})),e("f",(function(e){return r({url:"/lhcGame/findLhcGame",method:"get",params:e})})),e("g",(function(e){return r({url:"/lhcGame/getLhcGameList",method:"get",params:e})})),e("e",(function(e){return r({url:"/lhcGame/getGameListByCode",method:"GET",params:e})})),e("b",(function(e){return r({url:"/lhcGame/getGameByProductList",method:"GET",params:e})}))}}}));

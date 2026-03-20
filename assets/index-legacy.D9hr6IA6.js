@@ -1,0 +1,4 @@
+/*! 
+ Build based on gin-vue-admin 
+ Time : 1774033438000 */
+System.register(["./vendor-legacy.-6_ZvVqG.js","./index-legacy.CXL_pr1x.js"],(function(e,n){"use strict";var t,u,r,i,a,l,c,o,f,s,d;return{setters:[function(e){t=e.al,u=e.z,r=e.A,i=e.R,a=e.J,l=e.T,c=e.I,o=e.aB,f=e.u,s=e.M},function(e){d=e.T}],execute:function(){e("default",Object.assign({name:"Example"},{__name:"index",setup:function(e){var n=d();return function(e,d){var v=t("router-view");return r(),u("div",null,[i(v,null,{default:a((function(e){var t=e.Component;return[i(l,{mode:"out-in",name:"el-fade-in-linear"},{default:a((function(){return[(r(),c(o,{include:f(n).keepAliveRouters},[(r(),c(s(t)))],1032,["include"]))]})),_:2},1024)]})),_:1})])}}}))}}}));

@@ -1,0 +1,4 @@
+/*! 
+ Build based on gin-vue-admin 
+ Time : 1774033438000 */
+System.register(["./index-legacy.CXL_pr1x.js"],(function(t,n){"use strict";var e;return{setters:[function(t){e=t.s}],execute:function(){t("c",(function(t){return e({url:"/lhcNavigationSettings/createLhcNavigationSettings",method:"post",data:t})})),t("u",(function(t){return e({url:"/lhcNavigationSettings/updateLhcNavigationSettings",method:"put",data:t})})),t("f",(function(t){return e({url:"/lhcNavigationSettings/findLhcNavigationSettings",method:"get",params:t})})),t("g",(function(t){return e({url:"/lhcNavigationSettings/getLhcNavigationSettingsList",method:"get",params:t})})),t("a",(function(t){return e({url:"/lhcNavigationSettings/getNavCode",method:"GET",params:t})})),t("b",(function(t){return e({url:"/lhcNavigationSettings/updateNavCode",method:"POST",data:t})}))}}}));
