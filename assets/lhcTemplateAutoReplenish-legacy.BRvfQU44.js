@@ -1,0 +1,4 @@
+/*! 
+ Build based on gin-vue-admin 
+ Time : 1774021644000 */
+System.register(["./index-legacy.DHXBf45J.js"],(function(e,t){"use strict";var l;return{setters:[function(e){l=e.s}],execute:function(){e("c",(function(e){return l({url:"/lhcTemplateAutoReplenish/createLhcTemplateAutoReplenish",method:"post",data:e})})),e("d",(function(e){return l({url:"/lhcTemplateAutoReplenish/deleteLhcTemplateAutoReplenish",method:"delete",params:e})})),e("a",(function(e){return l({url:"/lhcTemplateAutoReplenish/deleteLhcTemplateAutoReplenishByIds",method:"delete",params:e})})),e("u",(function(e){return l({url:"/lhcTemplateAutoReplenish/updateLhcTemplateAutoReplenish",method:"put",data:e})})),e("f",(function(e){return l({url:"/lhcTemplateAutoReplenish/findLhcTemplateAutoReplenish",method:"get",params:e})})),e("g",(function(e){return l({url:"/lhcTemplateAutoReplenish/getLhcTemplateAutoReplenishList",method:"get",params:e})}))}}}));

@@ -1,0 +1,4 @@
+/*! 
+ Build based on gin-vue-admin 
+ Time : 1774021644000 */
+import{g as e,c as a,o as t,f as l,w as n,h as r,t as o,m as s,ae as p}from"./index.BLrFoUzL.js";const d={__name:"table",props:{data:{type:Array,required:!0}},setup:d=>(i,u)=>{const b=e("el-table-column"),c=e("el-table");return t(),a("div",null,[l(c,{data:d.data,border:"",stripe:"",style:{width:"100%"}},{default:n((()=>[l(b,{type:"index",label:"排名",width:"80",align:"center"}),l(b,{prop:"name",label:"彩种",align:"center"}),l(b,{prop:"betAmount",label:"投注金额",align:"center"},{default:n((({row:e})=>[r(o(s(p)(e.betAmount)),1)])),_:1}),l(b,{prop:"betNums",label:"投注笔数",align:"center"}),l(b,{prop:"zcAmount",label:"占成金额",align:"center"},{default:n((({row:e})=>[r(o(s(p)(e.zcAmount)),1)])),_:1}),l(b,{prop:"winLose",label:"输赢",align:"center"},{default:n((({row:e})=>[r(o(s(p)(e.winLose)),1)])),_:1})])),_:1},8,["data"])])}};export{d as default};
