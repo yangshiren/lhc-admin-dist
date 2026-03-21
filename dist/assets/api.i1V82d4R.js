@@ -1,0 +1,4 @@
+/*! 
+ Build based on gin-vue-admin 
+ Time : 1774087961000 */
+import{s as e}from"./index.Con7-IfI.js";const r=t=>e({url:"/api/getApiList",method:"post",data:t}),p=t=>e({url:"/api/createApi",method:"post",data:t}),i=t=>e({url:"/api/getApiById",method:"post",data:t}),o=t=>e({url:"/api/updateApi",method:"post",data:t}),n=t=>e({url:"/api/getAllApis",method:"post",data:t}),a=t=>e({url:"/api/deleteApi",method:"post",data:t}),u=t=>e({url:"/api/deleteApisByIds",method:"delete",data:t}),d=()=>e({url:"/api/freshCasbin",method:"get"}),A=()=>e({url:"/api/syncApi",method:"get"}),l=()=>e({url:"/api/getApiGroups",method:"get"}),c=t=>e({url:"/api/ignoreApi",method:"post",data:t}),h=t=>e({url:"/api/enterSyncApi",method:"post",data:t});export{l as a,i as b,p as c,a as d,h as e,u as f,r as g,d as h,c as i,n as j,A as s,o as u};

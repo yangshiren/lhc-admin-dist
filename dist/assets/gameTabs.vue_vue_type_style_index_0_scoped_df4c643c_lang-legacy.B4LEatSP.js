@@ -1,4 +1,4 @@
 /*! 
  Build based on gin-vue-admin 
- Time : 1774034247000 */
+ Time : 1774087961000 */
 System.register([],(function(e,t){"use strict";return{execute:function(){var e=document.createElement("style");e.textContent=".modern-lottery-tabs[data-v-df4c643c]{width:100%;display:flex;align-items:center;padding:2px 4px;background:#dad8d8;box-sizing:border-box}.modern-tab[data-v-df4c643c]{flex:1;height:34px;display:flex;align-items:center;justify-content:center;background:#e5e5e5;border-radius:4px;cursor:pointer;font-size:14px;font-weight:600;transition:all .18s ease;box-shadow:inset 0 0 0 1px #d0d0d0}.modern-tab[data-v-df4c643c]:hover{background:#f2f2f2}.modern-tab.active[data-v-df4c643c]{background:#f2f1bd;box-shadow:0 2px 6px rgba(193,192,192,.18),inset 0 0 0 1px var(--active-color)}.tab-text[data-v-df4c643c]{white-space:nowrap}\n/*$vite$:1*/",document.head.appendChild(e)}}}));

@@ -1,4 +1,0 @@
-/*! 
- Build based on gin-vue-admin 
- Time : 1774034247000 */
-System.register(["./index-legacy.C4zAK5X9.js","./vendor-legacy.-6_ZvVqG.js"],(function(e,t){"use strict";var n,r,a,i,u,c,s,o,f,l;return{setters:[function(e){n=e.aK},function(e){r=e.al,a=e.z,i=e.A,u=e.R,c=e.B,s=e.J,o=e.u,f=e.P,l=e.E}],execute:function(){e("_",{__name:"warningBar",props:{title:{type:String,default:""},href:{type:String,default:""}},setup:function(e){var t=e,d=function(){t.href&&window.open(t.href)};return function(t,p){var g=r("el-icon");return i(),a("div",{class:l(["px-1.5 py-2 flex items-center rounded-sm mt-2 bg-amber-50 gap-2 mb-3 text-amber-500 dark:bg-amber-700 dark:text-gray-200",e.href&&"cursor-pointer"]),onClick:d},[u(g,{class:"text-xl"},{default:s((function(){return[u(o(n))]})),_:1}),c("span",null,f(e.title),1)],2)}}})}}}));

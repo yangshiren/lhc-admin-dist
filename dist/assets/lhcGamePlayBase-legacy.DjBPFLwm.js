@@ -1,4 +1,0 @@
-/*! 
- Build based on gin-vue-admin 
- Time : 1774034247000 */
-System.register(["./index-legacy.C4zAK5X9.js"],(function(e,a){"use strict";var t;return{setters:[function(e){t=e.s}],execute:function(){e("c",(function(e){return t({url:"/lhcGamePlayBase/createLhcGamePlayBase",method:"post",data:e})})),e("d",(function(e){return t({url:"/lhcGamePlayBase/deleteLhcGamePlayBase",method:"delete",params:e})})),e("a",(function(e){return t({url:"/lhcGamePlayBase/deleteLhcGamePlayBaseByIds",method:"delete",params:e})})),e("u",(function(e){return t({url:"/lhcGamePlayBase/updateLhcGamePlayBase",method:"put",data:e})})),e("f",(function(e){return t({url:"/lhcGamePlayBase/findLhcGamePlayBase",method:"get",params:e})})),e("g",(function(e){return t({url:"/lhcGamePlayBase/getLhcGamePlayBaseList",method:"get",params:e})}))}}}));
