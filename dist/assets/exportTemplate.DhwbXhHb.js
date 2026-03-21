@@ -1,4 +1,0 @@
-/*! 
- Build based on gin-vue-admin 
- Time : 1774087961000 */
-import{s as t}from"./index.Con7-IfI.js";const p=e=>t({url:"/sysExportTemplate/createSysExportTemplate",method:"post",data:e}),s=e=>t({url:"/sysExportTemplate/deleteSysExportTemplate",method:"delete",data:e}),o=e=>t({url:"/sysExportTemplate/deleteSysExportTemplateByIds",method:"delete",data:e}),l=e=>t({url:"/sysExportTemplate/updateSysExportTemplate",method:"put",data:e}),a=e=>t({url:"/sysExportTemplate/findSysExportTemplate",method:"get",params:e}),m=e=>t({url:"/sysExportTemplate/getSysExportTemplateList",method:"get",params:e}),x=e=>t({url:"/sysExportTemplate/exportExcel",method:"get",params:e}),y=e=>t({url:"/sysExportTemplate/exportTemplate",method:"get",params:e});export{y as a,o as b,p as c,s as d,x as e,a as f,m as g,l as u};

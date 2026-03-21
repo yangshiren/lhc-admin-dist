@@ -1,0 +1,4 @@
+/*! 
+ Build based on gin-vue-admin 
+ Time : 1774089795000 */
+import{s as a}from"./index.9QleIpRk.js";const e=e=>a({url:"/lhcGamePlay/createLhcGamePlay",method:"post",data:e}),l=e=>a({url:"/lhcGamePlay/deleteLhcGamePlay",method:"delete",params:e}),m=e=>a({url:"/lhcGamePlay/deleteLhcGamePlayByIds",method:"delete",params:e}),t=e=>a({url:"/lhcGamePlay/updateLhcGamePlay",method:"put",data:e}),h=e=>a({url:"/lhcGamePlay/findLhcGamePlay",method:"get",params:e}),d=e=>a({url:"/lhcGamePlay/getLhcGamePlayList",method:"get",params:e}),s=e=>a({url:"/lhcGamePlay/getGamePlayGroupCode/"+e,method:"GET"}),G=e=>a({url:"/lhcGamePlay/getPlayDetail",method:"GET",params:e}),P=e=>a({url:"/lhcGamePlay/getEditPlayList",method:"GET",params:e}),y=e=>a({url:"/lhcGamePlay/updateSingleGamePlay",method:"PUT",data:e}),r=e=>a({url:"/lhcGamePlay/updateAllGamePlay",method:"PUT",data:e});export{m as a,P as b,e as c,l as d,G as e,h as f,d as g,r as h,y as i,s as j,t as u};

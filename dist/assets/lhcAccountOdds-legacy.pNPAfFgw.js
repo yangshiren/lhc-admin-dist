@@ -1,4 +1,4 @@
 /*! 
  Build based on gin-vue-admin 
- Time : 1774087961000 */
+ Time : 1774089795000 */
 System.register(["./index-legacy.C4jRGniX.js"],(function(t,c){"use strict";var d;return{setters:[function(t){d=t.s}],execute:function(){t("c",(function(t){return d({url:"/lhcAccountOdds/createLhcAccountOdds",method:"post",data:t})})),t("d",(function(t){return d({url:"/lhcAccountOdds/deleteLhcAccountOdds",method:"delete",params:t})})),t("a",(function(t){return d({url:"/lhcAccountOdds/deleteLhcAccountOddsByIds",method:"delete",params:t})})),t("u",(function(t){return d({url:"/lhcAccountOdds/updateLhcAccountOdds",method:"put",data:t})})),t("f",(function(t){return d({url:"/lhcAccountOdds/findLhcAccountOdds",method:"get",params:t})})),t("g",(function(t){return d({url:"/lhcAccountOdds/getLhcAccountOddsList",method:"get",params:t})})),t("b",(function(t){return d({url:"/lhcAccountOdds/batchUpdateAccountOdds",method:"POST",data:t})})),t("h",(function(t){return d({url:"/lhcAccountOdds/getGameBackList",method:"GET",params:t})})),t("e",(function(t){return d({url:"/lhcAccountOdds/batchUpdateBack",method:"POST",data:t})}))}}}));

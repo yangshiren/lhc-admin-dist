@@ -1,4 +1,0 @@
-/*! 
- Build based on gin-vue-admin 
- Time : 1774087961000 */
-import{s as t}from"./index.Con7-IfI.js";const e=c=>t({url:"/lhcAccountOdds/createLhcAccountOdds",method:"post",data:c}),s=c=>t({url:"/lhcAccountOdds/deleteLhcAccountOdds",method:"delete",params:c}),o=c=>t({url:"/lhcAccountOdds/deleteLhcAccountOddsByIds",method:"delete",params:c}),u=c=>t({url:"/lhcAccountOdds/updateLhcAccountOdds",method:"put",data:c}),n=c=>t({url:"/lhcAccountOdds/findLhcAccountOdds",method:"get",params:c}),h=c=>t({url:"/lhcAccountOdds/getLhcAccountOddsList",method:"get",params:c}),r=c=>t({url:"/lhcAccountOdds/batchUpdateAccountOdds",method:"POST",data:c}),a=c=>t({url:"/lhcAccountOdds/getGameBackList",method:"GET",params:c}),O=c=>t({url:"/lhcAccountOdds/batchUpdateBack",method:"POST",data:c});export{o as a,r as b,e as c,s as d,O as e,n as f,h as g,a as h,u};

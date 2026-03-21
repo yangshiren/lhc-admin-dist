@@ -1,4 +1,0 @@
-/*! 
- Build based on gin-vue-admin 
- Time : 1774087961000 */
-import{ai as i,aj as l,ak as c,r as h,aa as r,C as p,B as d,o as f,T as v,K as m,al as w,c as s}from"./vue.DkGHsHGM.js";import{h as y}from"./index.Con7-IfI.js";const a=i(0),n=i(0),z=e=>{const t=()=>{a.value=window.innerWidth,n.value=window.innerHeight,e&&typeof e=="function"&&e(a.value,n.value)};return l(t),c("resize",t,{passive:!0}),{width:a,height:n}},C={__name:"index",props:{options:{type:Object,default(){return{}}},autoResize:{type:Boolean,default:!0},width:{type:String,default:"100%"},height:{type:String,default:"100%"}},setup(e){const t=h(!1);return r(()=>{t.value=!0}),z(()=>{t.value=!1,r(()=>{t.value=!0})}),(o,u)=>t.value?(f(),p(m(w),{key:0,option:e.options,autoresize:e.autoResize,style:v({width:e.width,height:e.height})},null,8,["option","autoresize","style"])):d("",!0)}};function O(e){const t=y(),o=s(()=>t.isDark);return{chartOption:s(()=>e(o.value))}}export{C as _,O as u};

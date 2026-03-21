@@ -1,4 +1,4 @@
 /*! 
  Build based on gin-vue-admin 
- Time : 1774087961000 */
+ Time : 1774089795000 */
 System.register(["./index-legacy.C4jRGniX.js","./vue-legacy.9suPqUP7.js"],(function(e,t){"use strict";var n,r,a,l,u,o,i,c,d;return{setters:[function(e){n=e.v},function(e){r=e.y,a=e.a,l=e.o,u=e.A,o=e.J,i=e.Q,c=e.z,d=e.K}],execute:function(){e("default",{__name:"table",props:{data:{type:Array,required:!0}},setup:function(e){return function(t,p){var f=r("el-table-column"),s=r("el-table");return l(),a("div",null,[u(s,{data:e.data,border:"",stripe:"",style:{width:"100%"}},{default:o((function(){return[u(f,{type:"index",label:"排名",width:"80",align:"center"}),u(f,{prop:"name",label:"彩种",align:"center"}),u(f,{prop:"betAmount",label:"投注金额",align:"center"},{default:o((function(e){var t=e.row;return[i(c(d(n)(t.betAmount)),1)]})),_:1}),u(f,{prop:"betNums",label:"投注笔数",align:"center"}),u(f,{prop:"zcAmount",label:"占成金额",align:"center"},{default:o((function(e){var t=e.row;return[i(c(d(n)(t.zcAmount)),1)]})),_:1}),u(f,{prop:"winLose",label:"输赢",align:"center"},{default:o((function(e){var t=e.row;return[i(c(d(n)(t.winLose)),1)]})),_:1})]})),_:1},8,["data"])])}}})}}}));

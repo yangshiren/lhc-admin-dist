@@ -1,0 +1,4 @@
+/*! 
+ Build based on gin-vue-admin 
+ Time : 1774089795000 */
+import{u as a,g as s}from"./index.9QleIpRk.js";import{y as e,a as o,o as l,A as t,J as n,b as c,Q as d,K as i,i as r}from"./vue.buMZrsl1.js";const u={class:"gva-form-box"},p={__name:"index",setup(p){const f=a().token,m=a=>{if(0===a.code){let s="";a.data&&a.data.forEach(((a,e)=>{s+="".concat(e+1,".").concat(a.msg,"\n")})),alert(s)}else r.error(a.msg)};return(a,r)=>{const p=e("upload-filled"),_=e("el-icon"),g=e("el-upload");return l(),o("div",u,[t(g,{drag:"",action:"".concat(i(s)(),"/autoCode/installPlugin"),"show-file-list":!1,"on-success":m,"on-error":m,headers:{"x-token":i(f)},name:"plug"},{tip:n((()=>r[0]||(r[0]=[c("div",{class:"el-upload__tip"},"请把安装包的zip拖拽至此处上传",-1)]))),default:n((()=>[t(_,{class:"el-icon--upload"},{default:n((()=>[t(p)])),_:1}),r[1]||(r[1]=c("div",{class:"el-upload__text"},[d("拖拽或"),c("em",null,"点击上传")],-1))])),_:1},8,["action","headers"])])}}};export{p as default};

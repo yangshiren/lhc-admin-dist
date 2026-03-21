@@ -1,4 +1,4 @@
 /*! 
  Build based on gin-vue-admin 
- Time : 1774087961000 */
+ Time : 1774089795000 */
 System.register(["./index-legacy.C4jRGniX.js"],(function(n,e){"use strict";var t;return{setters:[function(n){t=n.s}],execute:function(){n("c",(function(n){return t({url:"/lhcAnnouncement/createLhcAnnouncement",method:"post",data:n})})),n("d",(function(n){return t({url:"/lhcAnnouncement/deleteLhcAnnouncement",method:"delete",params:n})})),n("a",(function(n){return t({url:"/lhcAnnouncement/deleteLhcAnnouncementByIds",method:"delete",params:n})})),n("u",(function(n){return t({url:"/lhcAnnouncement/updateLhcAnnouncement",method:"put",data:n})})),n("f",(function(n){return t({url:"/lhcAnnouncement/findLhcAnnouncement",method:"get",params:n})})),n("g",(function(n){return t({url:"/lhcAnnouncement/getLhcAnnouncementList",method:"get",params:n})})),n("b",(function(n){return t({url:"/lhcAnnouncement/getVisibleAccountAnnouncement",method:"GET",params:n})}))}}}));

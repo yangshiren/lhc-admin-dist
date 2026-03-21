@@ -1,0 +1,4 @@
+/*! 
+ Build based on gin-vue-admin 
+ Time : 1774089795000 */
+import{ai as e,aj as t,ak as a,r as s,aa as i,C as o,B as n,o as u,T as r,K as l,al as p,c as h}from"./vue.buMZrsl1.js";import{h as d}from"./index.9QleIpRk.js";const v=e(0),c=e(0),f={__name:"index",props:{options:{type:Object,default:()=>({})},autoResize:{type:Boolean,default:!0},width:{type:String,default:"100%"},height:{type:String,default:"100%"}},setup(e){const h=s(!1);return i((()=>{h.value=!0})),(e=>{const s=()=>{v.value=window.innerWidth,c.value=window.innerHeight,e&&"function"==typeof e&&e(v.value,c.value)};t(s),a("resize",s,{passive:!0})})((()=>{h.value=!1,i((()=>{h.value=!0}))})),(t,a)=>h.value?(u(),o(l(p),{key:0,option:e.options,autoresize:e.autoResize,style:r({width:e.width,height:e.height})},null,8,["option","autoresize","style"])):n("",!0)}};function y(e){const t=d(),a=h((()=>t.isDark));return{chartOption:h((()=>e(a.value)))}}export{f as _,y as u};

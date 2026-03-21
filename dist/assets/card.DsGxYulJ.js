@@ -1,4 +1,0 @@
-/*! 
- Build based on gin-vue-admin 
- Time : 1774087961000 */
-import{a as e,o as s,B as a,b as o,z as i,a7 as d,D as n}from"./vue.DkGHsHGM.js";const c={key:0,class:"flex justify-between items-center"},r={class:"text-base font-bold"},u={key:0,class:"text-sm text-active cursor-pointer"},f={class:"mt-2"},y={__name:"card",props:{title:{type:String,default:""},showAction:{type:Boolean,default:!1},customClass:{type:String,default:""},withoutPadding:{type:Boolean,default:!1}},setup(t){return(l,m)=>(s(),e("div",{class:n(["bg-white dark:bg-slate-900 text-gray-800 dark:text-gray-400 rounded shadow",[t.customClass||"",t.withoutPadding?"p-0":"p-4"]])},[t.title?(s(),e("div",c,[o("div",r,i(t.title),1),t.showAction?(s(),e("div",u," 查看更多 ")):a("",!0)])):a("",!0),o("div",f,[d(l.$slots,"default")])],2))}};export{y as default};
